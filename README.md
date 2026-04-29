@@ -30,7 +30,7 @@
     <!-- Header -->
     <header class="container">
                   <!-- Paste your SVG code here -->
-            <img src="reparinus_svg_logo_web.svg" 
+            <img src="img/reparinus_svg_logo_web.svg" 
                  alt="Reparinus Logo" 
                  class="logo-header">
     </header>
