@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    <title>Preview • Pico CSS</title>
+    <title>Reparinus one man Repair Cafe</title>
     <meta name="description" content="A pure HTML example, without dependencies.">
     <meta name="referer" content="strict-origin-when-cross-origin">
     <meta name="referrer" content="strict-origin-when-cross-origin">
